@@ -4,11 +4,10 @@ I quick overview of a few examples of code, websites and anything else I may hav
 
 ## Random links to sites that has my code
 
-* Portfolio Website - www.bishbashboshdesigns.co.uk
-* Blog - bish.bishabshboshdesign.co.uk
-* JSFiddle - jsfiddle.net/user/shinyash/fiddles/
-* GitHub - github.com/boshdesigns
-
+* Portfolio Website - <a href="www.bishbashboshdesigns.co.uk" target="_blank">www.bishbashboshdesigns.co.uk</a>
+* Blog - <a href="https://bish.bishabshboshdesign.co.uk" target="_blank">bish.bishabshboshdesign.co.uk</a>
+* JSFiddle - <a href="https://jsfiddle.net/user/shinyash/fiddles/" target="_blank">jsfiddle.net/user/shinyash/fiddles/</a>
+* GitHub - <a href="https://github.com/boshdesigns" target="_blank">github.com/boshdesigns</a>
 
 ## Code/Websites/Messing around work
 
