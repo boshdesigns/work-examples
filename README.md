@@ -2,6 +2,11 @@
 I quick overview of a few examples of code, websites and anything else I may have worked on.
 
 
+# Links to my CV
+* PDF Format - <a href="https://cp.sync.com/dl/74c17cb70#fxtc99s8-b64nnvbj-u32mmirw-eeqm5vpn" target="_blank">Release the Kratan</a>
+* JPEG Format - <a href="https://cp.sync.com/dl/fd44765c0#e9tv7j8e-f5c5scts-sh4ninhx-46xr4rbp" target="_blank">Release the Kratan mk.II</a>
+
+
 ## Random links to sites that has my code
 
 * Portfolio Website - <a href="www.bishbashboshdesigns.co.uk" target="_blank">www.bishbashboshdesigns.co.uk</a>
@@ -21,6 +26,8 @@ Using VueJS for the Front End, and Drupal 8 + JSON API for the back end.
 #### VueJS components
 <a href="https://github.com/boshdesigns/vue-drupal8-app/tree/dev/src" target="_blank">View the main source for the build</a>
 
+### Angular 1 Weather Web App
+<a href="http://angularweatherapp.atwebpages.com/#/" target="_blank">AngularJS 1 Weather App</a>
 
 ### Simple CMS
 I have been working with Drupal for a while now I pretty much dived into the CMS when I started development. But never really begin with a basic understand of who CMS work in the background.
