@@ -3,24 +3,27 @@ I quick overview of a few examples of code, websites and anything else I may hav
 
 
 ## Random links to sites that has my code
-`Portfolio Website - www.bishbashboshdesigns.co.uk`
-`Blog - bish.bishabshboshdesign.co.uk`
-`JSFiddle - jsfiddle.net/user/shinyash/fiddles/`
-`GitHub - github.com/boshdesigns`
+
+* Portfolio Website - www.bishbashboshdesigns.co.uk
+* Blog - bish.bishabshboshdesign.co.uk
+* JSFiddle - jsfiddle.net/user/shinyash/fiddles/
+* GitHub - github.com/boshdesigns
 
 
 ## Code/Websites/Messing around work
+
+### Decoupled Website
 As a developer decoupled web apps really interesting me. Currently in my spare time I'm working of a decoupled version of my portfolio website.
 Using VueJS for the Front End, and Drupal 8 + JSON API for the back end.
 
-##### Entire Project
+#### Entire Project
 <a href="https://github.com/boshdesigns/vue-drupal8-app/tree/dev" target="_blank">View the entire project here</a>
 
-##### VueJS components
+#### VueJS components
 <a href="https://github.com/boshdesigns/vue-drupal8-app/tree/dev/src" target="_blank">View the main source for the build</a>
 
 
-##### Simple CMS
+### Simple CMS
 I have been working with Drupal for a while now I pretty much dived into the CMS when I started development. But never really begin with a basic understand of who CMS work in the background.
 So I started to build a simple CMS from the beginning use https://css-tricks.com/php-for-beginners-building-your-first-simple-cms/ as a starting place.
 
