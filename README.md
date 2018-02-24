@@ -2,7 +2,7 @@
 I quick overview of a few examples of code, websites and anything else I may have worked on.
 
 
-# Links to my CV
+## Links to my CV
 * PDF Format - <a href="https://cp.sync.com/dl/74c17cb70#fxtc99s8-b64nnvbj-u32mmirw-eeqm5vpn" target="_blank">Release the Kratan</a>
 * JPEG Format - <a href="https://cp.sync.com/dl/fd44765c0#e9tv7j8e-f5c5scts-sh4ninhx-46xr4rbp" target="_blank">Release the Kratan mk.II</a>
 
