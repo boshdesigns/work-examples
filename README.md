@@ -59,16 +59,3 @@ Whilst this site had its challenges in the form of manufacturer guidelines it di
 
 
 ![Foreman Ford Site Image](/images/foremanford.jpg)
-
-
-### Norton Way
-
-Due to the client for this build being a multi franchise dealer, nine separate sites were built for each franchise including a group site.
-
-The group site acted as a general resource that would link out to all of the other sub sites. Each franchise sub site came with their own guidelines that required implementing to make sure they met each manufacturer's strict standards.
-
-Custom features were built using JQuery and SASS to added extra UX to the site as well as custom built components using PHP and HTTP API calls to add each functionality detailed in the design brief.
-
-Due to the amount of hits the site receives across all devices the responsive design of the site was focused on in great detail. Mobile devices were fast becoming the client's largest user sessions so mobile first approach was taken at the start of the build and built up to desktop.
-
-![Norton Way Site Image](/images/nortonwayScreenshot.jpg)
