@@ -52,18 +52,18 @@
 
             <section class="noteworthy-examples-section">
 
-              <h2 class="noteworthy-examples__title">Noteworthy Side Projects</h2>
+              <h2 class="noteworthy-examples__title">Side Projects</h2>
 
               <div class="noteworthy-examples__example">
-                <div class="decoupled-site">
-                  <h3 class="decoupled-site__title">Decoupled Web Build</h3>
-                  <div class="decoupled-site__body">
+                <div class="decoupled-site project">
+                  <h3 class="project__title">Decoupled Web Build</h3>
+                  <div class="project__body">
                     <p>
-                      As a developer decoupled web apps really interesting me. Currently in my spare time I'm working of a decoupled version of my portfolio website.
+                      Decoupled web apps really interesting me. Currently in my spare time I'm working of a decoupled version of my portfolio website.
                       Using VueJS for the Front End, and Drupal 8 + JSON API Module for the back end.
                     </p>
                   </div>
-                  <div class="decoupled-site__button">
+                  <div class="project__button">
                     <a href="https://github.com/boshdesigns/vue-drupal8-app/tree/dev" class="button" target="_blank">View the entire project here</a>
                     <a href="https://github.com/boshdesigns/vue-drupal8-app/tree/dev/src" class="button" target="_blank">View the main source for the build</a>
                   </div>
@@ -71,30 +71,39 @@
               </div>
 
               <div class="noteworthy-examples__example">
-                <div class="angularjs">
-                  <h3 class="angularjs__title">AngularJS 1 Weather App</h3>
-                  <div class="angularjs__body">
+                <div class="angularjs project">
+                  <h3 class="project__title">AngularJS 1 Weather App</h3>
+                  <div class="project__body">
                     <p>
-                      angularJS
+                      My first taste of JS frameworks was starting with AngularJS 1. I followed a tutorial on building with AngularJS including handling routes and resources.
+                    </p>
+                    <p>
+                      This lead to building a Weather Forecast WebApp. In the app the user can input the city, which they would like forecast for and also select the forecast duration. Upon sumbitting a call is made to the API for openweathermap.org, which then returns the results.
                     </p>
                   </div>
-                  <div class="angularjs__button">
+                  <div class="project__button">
                     <a href="http://angularweatherapp.atwebpages.com/#/" class="button" target="_blank">AngularJS 1 Weather App</a>
                   </div>
                 </div>
               </div>
 
               <div class="noteworthy-examples__example">
-                <div class="simplecms">
-                  <div class="simplecms__title">
+                <div class="simplecms project">
+                  <div class="project__title">
                     <h3>Simple CMS (IT Crowd Quotes)</h3>
                   </div>
-                  <div class="simplecms__body">
+                  <div class="project__body">
                     <p>
-                      I have been working with Drupal for a while now I pretty much dived into the CMS when I started development. But never really begin with a basic understand of who CMS work in the background. So I started to build a simple CMS from the beginning use <a href="https://css-tricks.com/php-for-beginners-building-your-first-simple-cms/" target="_blank">https://css-tricks.com/php-for-beginners-building-your-first-simple-cms/</a> as a starting place.
+                      I have been working with Drupal for a while now I pretty much dived into the CMS when I started development. But never really begun with a basic understanding of how Content Management Systems works in the background. So I started to build a simple CMS from the beginning using <a href="https://css-tricks.com/php-for-beginners-building-your-first-simple-cms/" target="_blank">https://css-tricks.com/php-for-beginners-building-your-first-simple-cms/</a> as a starting place.
+                    </p>
+                    <p>
+                      From there I started to improve upon this by restructuring how it worked. I created classes and then extended those classes for object-oriented programming.
+                    </p>
+                    <p>
+                      I also begun going through the code and updating MySql functions set by the tutorial to MySqli.
                     </p>
                   </div>
-                  <div class="simplecms__button">
+                  <div class="project__button">
                     <a href="https://github.com/boshdesigns/simple-cms" class="button" target="_blank">View Project on Github</a>
                     <a href="http://simplecms.atwebpages.com/" class="button" target="_blank">View Simple CMS Project</a>
                   </div>
@@ -102,20 +111,23 @@
               </div>
 
               <div class="noteworthy-examples__example">
-                <div class="code">
-                  <div class="code__title">
+                <div class="code project">
+                  <div class="project__title">
                     <h3>Maintenance of Code</h3>
                   </div>
-                  <div class="code__body">
+                  <div class="project__body">
                     <p>
-                      As part of day to day duties I updated and maintain code that is used across multiple sites.
+                      As part of day to day duties I update and maintain code that is used across multiple sites.
                     </p>
                     <p>
-                      One example is a custom module used to make an API calls providing 360 gallery view of used cars. Originally this module was written to make a PHP Curl to the API. Over time I have had to learn how this works and update this module when the API call had changed.
+                      One example is a custom module used to make an API calls providing 360 gallery view of used cars. This module was written by another developer to make a PHP Curl to the API.
+                    </p>
+                    <p>
+                      However, over time I have had to learn how this works and update this module needed updateing, the API call changing or additional features needed adding.
                     </p>
                   </div>
-                  <div class="code__button">
-                    <a href="https://github.com/boshdesigns/simple-cms" class="button" target="_blank">View Module on Github</a>
+                  <div class="project__button">
+                    <a href="https://github.com/boshdesigns/maintaining-code" class="button" target="_blank">View Module on Github</a>
                   </div>
                 </div>
               </div>
@@ -138,10 +150,14 @@
                     <img src="images/caravantech.jpg" />
                   </div>
                   <div class="work-example__body">
-                    <p>Being a franchise dealer, each franchise needed it's own site and each with their own guideline standard to comply too. Which meant this was a build that consisted of 4 separate sites including a group site.</p>
+                    <p>This is my most recent build I have completed. This site required a certain amount of custom coding to achive elements within the designs.</p>
+                    <p>
+                      This also gave me a change to try out a simple form of image load masking, using a JS plugin called imagesLoaded.
+                    </p>
                   </div>
                   <div class="work-example__button">
                     <a href="http://caravantech.spidersnetpreview.co.uk" class="button" target="_blank">View Site</a>
+                    <a href="https://github.com/boshdesigns/work-example-caravantech" class="button" target="_blank">View Site's Theme Code</a>
                   </div>
                 </div>
               </div>
@@ -155,10 +171,11 @@
                     <img src="images/snadvanced4.jpg" />
                   </div>
                   <div class="work-example__body">
-                    <p>Most recently I have build a new template for customer to chose from. This template incorparated many new features, ones of which I had to finds ways to achive.</p>
+                    <p>More recently I have build a new template for customer to chose from. This template incorparated many new features, ones of which I had to finds ways to achive.</p>
                   </div>
                   <div class="work-example__button">
                     <a href="http://snadvanced4.spidersnetpreview.co.uk" class="button" target="_blank">View Site</a>
+                    <a href="https://github.com/boshdesigns/work-example-adv4" class="button" target="_blank">View Site's Theme Code</a>
                   </div>
                 </div>
               </div>
@@ -178,6 +195,7 @@
                   </div>
                   <div class="work-example__button">
                     <a href="http://www.csmc.co.uk" class="button" target="_blank">View Site</a>
+                    <a href="https://github.com/boshdesigns/work-example-csmc" class="button" target="_blank">View Site's Theme Code</a>
                   </div>
                 </div>
               </div>
@@ -195,7 +213,7 @@
 
             <section class="random-links-section">
               <div class="random-links-section__title">
-                <h3>Links With More of My Code</h3>
+                <h3>Places With More of My Code</h3>
               </div>
               <div class="random-links-section__button">
                 <a href="http://www.bishbashboshdesigns.co.uk/" class="button" target="_blank">My Portoflio Website</a>

@@ -195,19 +195,13 @@ a.button:focus {
   margin-bottom: 40px;
 }
 
-.decoupled-site__body,
-.angularjs__body,
-.simplecms__body,
-.code__body,
+.project__body,
 .cv-section__body,
 .random-links-section__body {
   margin-bottom: 30px;
 }
 
-.decoupled-site__button,
-.angularjs__button,
-.simplecms__button,
-.code__button,
+.project__button,
 .cv-section__button,
 .random-links-section__button,
 .work-example__button {
