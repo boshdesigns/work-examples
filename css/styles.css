@@ -94,18 +94,26 @@ a {
 }
 
 .l-header {
-  background-image: url(../images/header-bg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: top center;
-  background-attachment: fixed;
+  background-color: #f7f7f7;
   margin-bottom: 60px;
+  position: relative;
+  overflow: hidden;
+}
+
+.bg-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
 }
 
 .l-header__heading {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
+
+  position: relative;
+  z-index: 2;
 }
 
 .l-header__heading h1 {
@@ -190,6 +198,7 @@ a.button:focus {
 .decoupled-site__body,
 .angularjs__body,
 .simplecms__body,
+.code__body,
 .cv-section__body,
 .random-links-section__body {
   margin-bottom: 30px;
@@ -198,6 +207,7 @@ a.button:focus {
 .decoupled-site__button,
 .angularjs__button,
 .simplecms__button,
+.code__button,
 .cv-section__button,
 .random-links-section__button,
 .work-example__button {
